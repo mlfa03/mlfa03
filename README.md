@@ -23,7 +23,7 @@
  
 
 #### AI 
-- ColumbiaX Artificial Intelligence
+- [ColumbiaX Artificial Intelligence](https://github.com/mlfa03/AI_Python)
 - Coursera Standford Machine Learning 
 - Coursera Standford AI for Everyone (audited)
 - [Fundamentals of Artificial Intelligence - Data Science Academy](https://mycourse.app/zk2NGGfpEjEwnZVU7)
