@@ -25,5 +25,5 @@
 - Alura Machine Learning
 
 ### Programming
-- Alura Python
+- [Alura Python](https://github.com/mlfa03/MyCourses/blob/main/AluraPython/README.md)
 
