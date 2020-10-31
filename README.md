@@ -8,11 +8,22 @@
 - 💬 Ask me about ...Anything.
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/mariana-almeida-72725889/?locale=en_US)
 
-### Courses I finished / am working on: 
+
+
+
+### How / What am I learning?  
 
 #### Data Science
+HarvardX Data Science 
+Alura Data Science (finished)
+Coursera John Hopkins Data Science: Statistics and Machine Learning
 
+#### AI 
+ColumbiaX Artificial Intelligence
+Coursera Standford Machine Learning 
+Coursera Standford AI for Everyone (audited)
+Alura Machine Learning
 
-#### Machine Learning
-Coursera: Standford Machine Learning 
+### Programming
+Alura Python
 
