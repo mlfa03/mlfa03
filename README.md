@@ -29,9 +29,9 @@
 - [Fundamentals of Artificial Intelligence - Data Science Academy](https://mycourse.app/zk2NGGfpEjEwnZVU7)
 - [Alura Machine Learning](https://github.com/mlfa03/MyCourses/blob/main/AluraPython/ML.md)  | [Repository](https://github.com/mlfa03/Alura_Estudos/tree/master/MachineLearning_Alura)
 
-### Programming
+#### Programming
 - Python Programming - Data Science Academy
 - [Alura Python](https://github.com/mlfa03/MyCourses/blob/main/AluraPython/README.md)
 
-### Statistics
+#### Statistics
 - [Alura Statistics](https://github.com/mlfa03/MyCourses/blob/main/AluraPython/alurastats.md)
