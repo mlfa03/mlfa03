@@ -14,16 +14,16 @@
 ### How / What am I learning?  
 
 #### Data Science
-HarvardX Data Science 
-Alura Data Science (finished)
-Coursera John Hopkins Data Science: Statistics and Machine Learning
+ - HarvardX Data Science 
+ - Alura Data Science (finished)
+ - Coursera John Hopkins Data Science: Statistics and Machine Learning
 
 #### AI 
-ColumbiaX Artificial Intelligence
-Coursera Standford Machine Learning 
-Coursera Standford AI for Everyone (audited)
-Alura Machine Learning
+- ColumbiaX Artificial Intelligence
+- Coursera Standford Machine Learning 
+- Coursera Standford AI for Everyone (audited)
+- Alura Machine Learning
 
 ### Programming
-Alura Python
+- Alura Python
 
