@@ -17,7 +17,7 @@
 
 #### Data Science
  - HarvardX Data Science 
- - [Alura Data Science](https://github.com/mlfa03/MyCourses/blob/main/AluraPython/DS_Alura)
+ - [Alura Data Science](https://github.com/mlfa03/MyCourses/blob/main/AluraPython/DS_Alura) | [Repository](https://github.com/mlfa03/Alura_Estudos/tree/master/Data_Visualization)
  - Coursera John Hopkins Data Science: Statistics and Machine Learning (audited)
  - [Fundamentals of Big Data - Data Science Academy](https://mycourse.app/g5QUCa4VYbC3Dn3SA)
  
@@ -27,9 +27,11 @@
 - Coursera Standford Machine Learning 
 - Coursera Standford AI for Everyone (audited)
 - [Fundamentals of Artificial Intelligence - Data Science Academy](https://mycourse.app/zk2NGGfpEjEwnZVU7)
-- [Alura Machine Learning](https://github.com/mlfa03/MyCourses/blob/main/AluraPython/ML.md)
+- [Alura Machine Learning](https://github.com/mlfa03/MyCourses/blob/main/AluraPython/ML.md)  | [Repository](https://github.com/mlfa03/Alura_Estudos/tree/master/MachineLearning_Alura)
 
 ### Programming
 - Python Programming - Data Science Academy
 - [Alura Python](https://github.com/mlfa03/MyCourses/blob/main/AluraPython/README.md)
 
+### Statistics
+- [Alura Statistics](https://github.com/mlfa03/MyCourses/blob/main/AluraPython/alurastats.md)
