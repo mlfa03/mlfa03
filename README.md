@@ -31,7 +31,7 @@
 - [LinkedIn AI Courses](https://github.com/mlfa03/MyCourses/blob/main/LinkedIn/AI_LD.md)
 
 #### Programming
-- Python Programming - Data Science Academy
+- [Python Programming - Data Science Academy](https://mycourse.app/M5hxKzL7kxKAbLj57)
 - [Alura Python](https://github.com/mlfa03/MyCourses/blob/main/AluraPython/README.md)
 
 #### Statistics
