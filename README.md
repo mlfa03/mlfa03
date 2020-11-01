@@ -11,7 +11,7 @@
 
 ### My Projects
  - [Freecodecamp Data Analysis Projects](https://github.com/mlfa03/Freecodecamp_Projects/tree/main/FCC_Data_Analysis)
- - COVID-19 with Logistic regression
+ - [COVID-19 Predicitions with Linear Regression (Kaggle Dataset)](https://github.com/mlfa03/Kaggle_projects/tree/main/Novel_C19_dataset_nov20)
 
 ### How / What am I learning?  
 
