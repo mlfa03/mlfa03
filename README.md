@@ -9,10 +9,12 @@
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/mariana-almeida-72725889/?locale=en_US)
 
 
-### My Projects
+### What I have been working on...
  - [Freecodecamp Data Analysis Projects](https://github.com/mlfa03/Freecodecamp_Projects/tree/main/FCC_Data_Analysis)
- - [COVID-19 Predicitions with Linear Regression (Kaggle Dataset)](https://github.com/mlfa03/Kaggle_projects/tree/main/Novel_C19_dataset_nov20)
- - Implementing Machine Learning with Numpy/Pandas
+ - [COVID-19 Predicitions with Linear Regression (Kaggle)](https://github.com/mlfa03/Kaggle_projects/tree/main/Novel_C19_dataset_nov20)
+ - [Sales Prediction with Facebook Prophet (Kaggle)](https://www.kaggle.com/marianaalm/rossman-sales-fbphophet)
+ - [Association Rules using Instacart Market Basket Analysis Dataset (Kaggle) ](https://www.kaggle.com/marianaalm/association-rules-instacart)
+ - [Credit card data clustering (Kaggle)](https://www.kaggle.com/marianaalm/creditcard-clustering)
 
 ### How / What am I learning?  
 
