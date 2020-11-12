@@ -15,6 +15,7 @@
  - [Sales Prediction with Facebook Prophet (Kaggle)](https://www.kaggle.com/marianaalm/rossman-sales-fbphophet)
  - [Association Rules using Instacart Market Basket Analysis Dataset (Kaggle) ](https://www.kaggle.com/marianaalm/association-rules-instacart)
  - [Credit card data clustering (Kaggle)](https://www.kaggle.com/marianaalm/creditcard-clustering)
+ - [Automatic Stock Negotiations with TensorFlow]
 
 ### How / What am I learning?  
 
