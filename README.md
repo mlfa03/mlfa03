@@ -12,7 +12,7 @@
 ### My Projects
  - [Freecodecamp Data Analysis Projects](https://github.com/mlfa03/Freecodecamp_Projects/tree/main/FCC_Data_Analysis)
  - [COVID-19 Predicitions with Linear Regression (Kaggle Dataset)](https://github.com/mlfa03/Kaggle_projects/tree/main/Novel_C19_dataset_nov20)
- - Implementing Machine Learning
+ - Implementing Machine Learning with Numpy/Pands only and/or using ML libraries
 
 ### How / What am I learning?  
 
