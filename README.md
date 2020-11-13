@@ -24,7 +24,7 @@
 ### How / What am I learning?  
 
  - HarvardX Data Science
- - [Alura (Programming, Data Science, Statistics Machine Learning, DataBases)]
+ - [Alura (Programming, Data Science, Statistics Machine Learning, DataBases)](https://github.com/mlfa03?tab=repositories)
  - Coursera John Hopkins Data Science: Statistics and Machine Learning (audited)
  - [Fundamentals of Big Data - Data Science Academy](https://mycourse.app/g5QUCa4VYbC3Dn3SA)
  - ColumbiaX Artificial Intelligence
