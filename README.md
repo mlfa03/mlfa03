@@ -21,15 +21,13 @@
 ### How / What am I learning?  
 
  - HarvardX Data Science 
- - [Alura Data Science](https://github.com/mlfa03/MyCourses/blob/main/AluraPython/DS_Alura) | [Repository](https://github.com/mlfa03/Alura_Estudos/tree/master/Data_Visualization)
+ - [Alura (Programming, Data Science, Statistics Machine Learning, DataBases)]
  - Coursera John Hopkins Data Science: Statistics and Machine Learning (audited)
  - [Fundamentals of Big Data - Data Science Academy](https://mycourse.app/g5QUCa4VYbC3Dn3SA)
 - ColumbiaX Artificial Intelligence
 - Coursera Standford Machine Learning 
 - Coursera Standford AI for Everyone (audited)
 - [Fundamentals of Artificial Intelligence - Data Science Academy](https://mycourse.app/zk2NGGfpEjEwnZVU7)
-- [Alura Machine Learning](https://github.com/mlfa03/MyCourses/blob/main/AluraPython/ML.md)  | [Repository](https://github.com/mlfa03/Alura_Estudos/tree/master/MachineLearning_Alura)
-- [LinkedIn AI Courses](https://github.com/mlfa03/MyCourses/blob/main/LinkedIn/AI_LD.md)
+- [LinkedIn Courses](https://github.com/mlfa03/MyCourses/blob/main/LinkedIn/AI_LD.md)
 - [Python Programming - Data Science Academy](https://mycourse.app/M5hxKzL7kxKAbLj57)
-- [Alura Python](https://github.com/mlfa03/MyCourses/blob/main/AluraPython/README.md)
-- [Alura Statistics](https://github.com/mlfa03/MyCourses/blob/main/AluraPython/alurastats.md)
+
