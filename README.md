@@ -1,11 +1,12 @@
 
 
 
+
 ### What I have been working on...
  - [Comparison of Classification Algorithms](https://github.com/mlfa03/Comparison_MLAlgorithms/tree/main/ML_Classification)
  - [Freecodecamp Data Analysis Projects](https://github.com/mlfa03/Freecodecamp_Projects/tree/main/FCC_Data_Analysis)
- - [COVID-19 Predicitions with Linear Regression (Kaggle)](https://github.com/mlfa03/Kaggle_projects/tree/main/Novel_C19_dataset_nov20)
- - [NLP for Amazon Alexa Reviews (Kaggle)](https://www.kaggle.com/marianaalm/nlp-alexa)
+ - [COVID-19 Predicitions for Brazil(Kaggle)](https://github.com/mlfa03/Kaggle_projects/tree/main/Novel_C19_dataset_nov20)
+ - [NLP for Amazon Alexa Reviews (Kaggle)](https://www.kaggle.com/marianaalm/nlpfromamazonalexa)
  - [Sales Prediction with Facebook Prophet (Kaggle)](https://www.kaggle.com/marianaalm/rossman-sales-fbphophet)
  - [Association Rules using Instacart Market Basket Analysis Dataset (Kaggle) ](https://www.kaggle.com/marianaalm/association-rules-instacart)
  - [Credit card data clustering (Kaggle)](https://www.kaggle.com/marianaalm/creditcard-clustering)
@@ -13,14 +14,14 @@
  - [Implementing Machine Learning with Numpy and Pandas Only](https://github.com/mlfa03/MLAlgorithms/tree/main/ML_Numpy_Pandas)
  - [Sudoku in Python](https://github.com/mlfa03/AI_Python)
 
-### How / What am I learning?  
+### (My Portfolio site)[https://mlfaportfolio.wordpress.com/home-2/]
+
+
+### What am I learning?  
 
  - Data science, Machine Learning, Artificial Intelligence, Scrum, Python Programming, Cloud computing
  - Details (here)[https://github.com/mlfa03/MyCourses]
- - HarvardX Data Science
- - [Alura (Programming, Data Science, Statistics Machine Learning, DataBases)](https://github.com/mlfa03?tab=repositories)
- - Coursera John Hopkins Data Science: Statistics and Machine Learning (audited)
- - [Coursera Standford Machine Learning](https://coursera.org/share/6d9278f97cae642be9707824a86c3525) 
- - Coursera Standford AI for Everyone (audited)
- - [Python Programming - Data Science Academy](https://mycourse.app/M5hxKzL7kxKAbLj57)
+
+
+
 
