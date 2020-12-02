@@ -14,7 +14,7 @@
  - [Implementing Machine Learning with Numpy and Pandas Only](https://github.com/mlfa03/MLAlgorithms/tree/main/ML_Numpy_Pandas)
  - [Sudoku in Python](https://github.com/mlfa03/AI_Python)
 
-### (My Portfolio site)[https://mlfaportfolio.wordpress.com/home-2/]
+### [My Portfolio](https://mlfaportfolio.wordpress.com/home-2/)
 
 
 ### What am I learning?  
