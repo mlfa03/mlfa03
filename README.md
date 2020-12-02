@@ -15,14 +15,12 @@
 
 ### How / What am I learning?  
 
+ - Data science, Machine Learning, Artificial Intelligence, Scrum, Python Programming, Cloud computing
+ - Details (here)[https://github.com/mlfa03/MyCourses]
  - HarvardX Data Science
  - [Alura (Programming, Data Science, Statistics Machine Learning, DataBases)](https://github.com/mlfa03?tab=repositories)
  - Coursera John Hopkins Data Science: Statistics and Machine Learning (audited)
- - [Fundamentals of Big Data - Data Science Academy](https://mycourse.app/g5QUCa4VYbC3Dn3SA)
- - ColumbiaX Artificial Intelligence
  - [Coursera Standford Machine Learning](https://coursera.org/share/6d9278f97cae642be9707824a86c3525) 
  - Coursera Standford AI for Everyone (audited)
- - [Fundamentals of Artificial Intelligence - Data Science Academy](https://mycourse.app/zk2NGGfpEjEwnZVU7)
- - [LinkedIn Courses](https://github.com/mlfa03/MyCourses/blob/main/LinkedIn/AI_LD.md)
  - [Python Programming - Data Science Academy](https://mycourse.app/M5hxKzL7kxKAbLj57)
 
