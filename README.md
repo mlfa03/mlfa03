@@ -10,16 +10,16 @@
  - [Sales Prediction with Facebook Prophet (Kaggle)](https://www.kaggle.com/marianaalm/rossman-sales-fbphophet)
  - [Association Rules using Instacart Market Basket Analysis Dataset (Kaggle) ](https://www.kaggle.com/marianaalm/association-rules-instacart)
  - [Credit card data clustering (Kaggle)](https://www.kaggle.com/marianaalm/creditcard-clustering)
- - [Automatic Stock Negotiations with TensorFlow](https://github.com/mlfa03/AI_Python/tree/main/StockPrice_TF)
  - [Implementing Machine Learning with Numpy and Pandas Only](https://github.com/mlfa03/MLAlgorithms/tree/main/ML_Numpy_Pandas)
  - [Sudoku in Python](https://github.com/mlfa03/AI_Python)
+ - [Automatic Stock Negotiations with TensorFlow](https://github.com/mlfa03/AI_Python/tree/main/StockPrice_TF)
 
 ### [My Portfolio](https://mlfaportfolio.wordpress.com/home-2/)
 
 
 ### What am I learning?  
 
- - Data science, Machine Learning, Artificial Intelligence, Scrum, Python Programming, Cloud computing
+ *Data science, Machine Learning, Artificial Intelligence, Scrum, Python Programming, Cloud computing*
  - Details (here)[https://github.com/mlfa03/MyCourses]
 
 
