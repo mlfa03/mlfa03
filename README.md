@@ -21,7 +21,7 @@
 ### What am I learning?  
 
  *Data science, Machine Learning, Artificial Intelligence, Scrum, Python Programming, Cloud computing*
- - Details (here)[https://github.com/mlfa03/MyCourses]
+ - Details [here](https://github.com/mlfa03/MyCourses)
 
 
 
