@@ -3,6 +3,7 @@
 
 
 ### What I have been working on...
+ - [MLOPs Summaries](https://github.com/mlfa03/MLOPs)
  - [Artist Recommender System with PySpark](https://github.com/mlfa03/Data-Science-Projects/tree/main/Arts/Last_fm%20Recommendation%20System)
  - [COVID Detection with Deep Learning](https://github.com/mlfa03/Data-Science-Projects/tree/main/Health%20Data/COVID-Detection-DeepLearning)
  - [Breast Cancer Prediction with Tensor Flow using Binary Classification](https://www.kaggle.com/marianaalm/breastcancer-tf)
@@ -22,7 +23,7 @@
 
 ### What am I learning?  
 
- *Data science, Machine Learning, Artificial Intelligence, Scrum, Python Programming, Cloud computing*
+ *Focused on learning tools around MLOPs topics*
  - Details [here](https://github.com/mlfa03/MyCourses)
 
 
