@@ -4,8 +4,9 @@
 
 ### What I have been working on...
  - [MLOPs Summaries](https://github.com/mlfa03/MLOPs)
+ - [Computer Vision Projects](https://github.com/mlfa03/ComputerVision)
+ - [Artist Recommender System with PySpark - working with big datasets](https://github.com/mlfa03/Data-Science-Projects/tree/main/Arts/Last_fm%20Recommendation%20System)
  - [Data Analysis with Pyspark and interactive report](https://github.com/mlfa03/mlfa03/blob/main/RequestAPI_EDA.ipynb)
- - [Artist Recommender System with PySpark](https://github.com/mlfa03/Data-Science-Projects/tree/main/Arts/Last_fm%20Recommendation%20System)
  - [COVID Detection with Deep Learning](https://github.com/mlfa03/Data-Science-Projects/tree/main/Health%20Data/COVID-Detection-DeepLearning)
  - [Breast Cancer Prediction with Tensor Flow using Binary Classification](https://www.kaggle.com/marianaalm/breastcancer-tf)
  - [Comparison of Classification Algorithms](https://github.com/mlfa03/Comparison_MLAlgorithms/tree/main/ML_Classification)
